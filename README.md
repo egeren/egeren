@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I love playing & developing video games, listening music and hang out with my friends.**
 
+ <img src="https://komarev.com/ghpvc/?username=egeren" />
+
 ## 🚀 Languages and Tools:
 
 <p align="center">
@@ -42,7 +44,8 @@
     <a href="https://github.com/egeren/github-readme-stats"><img alt="Ege Eren's Github Stats" src="https://github-readme-stats.vercel.app/api?username=egeren&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/egeren/github-readme-stats"><img alt="Ege Eren's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egeren&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+   
 <br/>
 <br/>
