@@ -1,6 +1,6 @@
 <a  href="#"><img width="100%" height="auto" src="https://www.technopat.net/sosyal/eklenti/bilgisayar-gif.1082262/" height="175px"/></a>
 
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="max-width:30px; max-height:30px;"> I'm Ege Eren</h1>
+<h1 align="center">Hi there<span style="height:30px"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width:"100%" height="100%"></span> I'm Ege Eren</h1>
 <h3 align="center">I'm a full stack developer at a startup company called t-park.</h3>
 
 ## 🙋‍♂️ About Me
